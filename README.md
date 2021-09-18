@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RizkyPDA
 - 👀 I’m interested in Machine learning, Python, IoT etc.
 - 🌱 I’m currently learning Python and Data Science
-- 💞️ I’m looking to collaborate on Kaggle
+- 💞️ I’m looking to collaborate on GitHub, Kaggle
 - 📫 How to reach me muhammad.syadrie11@gmail.com
 
 <!---
